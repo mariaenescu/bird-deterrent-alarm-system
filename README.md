@@ -1,2 +1,3 @@
 # bird-deterrent-alarm-system
-A farmer faces crop damage caused by birds. To solve this, I built an automatic alarm system using an Arduino, PCF8574 for pin expansion, light and ultrasonic sensors, an RGB LED, a speaker, and an LCD. It detects birds and scares them away without harm, using visual and sound signals, powered by a separate PC supply.
+
+A farmer is facing the problem of birds destroying crops. To solve this issue, I decided to build an automatic alarm system designed to scare birds away without harming them. The system uses a separate power supply from a PC, an Arduino board as the microcontroller, with a PCF8574 for pin expansion, an analog light sensor to determine whether it is day or night, four ultrasonic distance sensors to detect the distance between the birds and the crops from multiple angles, an RGB LED for visual signaling, a speaker to emit warning sounds, and an LCD display to show relevant information.
